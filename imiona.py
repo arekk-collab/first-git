@@ -8,3 +8,6 @@ def cos():
     cos = 5
     return cos
     
+def inne():
+    return imiona:
+    print (xml).out
