@@ -11,3 +11,5 @@ def cos():
 def inne():
     return imiona:
     print (xml).out
+    
+ def inne():
